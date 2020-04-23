@@ -1,6 +1,6 @@
 {
-  "name": "markdown-it-custom-block",
-  "description": "Custom blocks for markdown-it",
+  "name": "peter-markdown-it-custom-block",
+  "description": "peter-Custom blocks for markdown-it",
   "version": "0.1.1",
   "main": "index.js",
   "scripts": {
@@ -28,12 +28,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/posva/markdown-it-custom-block.git"
+    "url": "git+https: //github.com/peter-moon/markdown-it-custom-block.git"
   },
   "bugs": {
-    "url": "https://github.com/posva/markdown-it-custom-block/issues"
+    "url": "https://github.com/peter-moon/markdown-it-custom-block/issues"
   },
-  "homepage": "https://github.com/posva/markdown-it-custom-block#readme",
+  "homepage": "https://github.com/peter-moon/markdown-it-custom-block#readme",
   "license": "MIT",
   "devDependencies": {
     "markdown-it": "^10.0.0",
